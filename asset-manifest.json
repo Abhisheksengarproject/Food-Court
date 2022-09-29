@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Food-Court/static/css/main.48598641.css",
+    "main.js": "/Food-Court/static/js/main.976a17d1.js",
+    "static/media/burger3.png": "/Food-Court/static/media/burger3.11eccfcb1a45834ac9d7.png",
+    "static/media/burger2.png": "/Food-Court/static/media/burger2.3a02b94cd44d825ebb94.png",
+    "static/media/5227.jpg": "/Food-Court/static/media/5227.ae71c08b36356e5f84ee.jpg",
+    "static/media/bg.png": "/Food-Court/static/media/bg.e25df216162c9b2fc988.png",
+    "static/media/burger1.png": "/Food-Court/static/media/burger1.6cbf3dc63aff1ced8e98.png",
+    "static/media/myphoto.jpeg": "/Food-Court/static/media/myphoto.3b16741b07329b658326.jpeg",
+    "index.html": "/Food-Court/index.html",
+    "main.48598641.css.map": "/Food-Court/static/css/main.48598641.css.map",
+    "main.976a17d1.js.map": "/Food-Court/static/js/main.976a17d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48598641.css",
+    "static/js/main.976a17d1.js"
+  ]
+}
